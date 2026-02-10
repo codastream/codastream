@@ -48,8 +48,8 @@ I went back to strengthen my coding foundations at 42 School of programming, and
   style="filter: grayscale(100%)"
 />
     </td>
-    <td>Good knowledge of Python</td>
-    <td>Self-taught through online courses (Pluralsight)</td>
+    <td>Good knowledge of Python and basics of data libs (pandas, numpy, matplotlib, sk-learn)</td>
+    <td>Self-taught through online courses (Pluralsight, Datacamp)</td>
   </tr>
 
   <tr width="30%">
